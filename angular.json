@@ -484,5 +484,8 @@
       }
     }
   },
-  "defaultProject": "angular-micro-frontend"
+  "defaultProject": "angular-micro-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
